@@ -1,0 +1,1 @@
+module.exports = '<p>This is the partial for view {{ model.id }}.</p>\n';
